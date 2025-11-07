@@ -19,4 +19,8 @@ The following is a stepwise summary of the primary tools used in the GPUV analys
 - [metaSPAdes](https://github.com/ablab/spades) and [MEGAHIT](https://github.com/voutcn/megahit) were used for metagenomic assembly.
 
 #### **3. Viral Identification and Quality Assessment**
-- [geNomad](https://portal.nersc.gov/genomad/) and [CheckV](https://bitbucket.org/berkeleylab/checkv) were used to identify viral contigs and remove sequences derived from cellular organisms or plasmids.
+- [geNomad](https://portal.nersc.gov/genomad/), [deepVirFinder](https://github.com/jessieren/DeepVirFinder) and [CheckV](https://bitbucket.org/berkeleylab/checkv) were used to identify viral contigs and Quality Control (QC).
+
+#### **4. Statistical Analysis**
+- Statistical analyses were performed using [R](https://www.r-project.org/) version 4.0.3, utilizing the [vegan](https://cran.r-project.org/package=vegan) package to calculate species diversity. Various R packages, including [ggplot2](https://ggplot2.tidyverse.org/), [pheatmap](https://cran.r-project.org/package=pheatmap), [ggpubr](https://cran.r-project.org/package=ggpubr), [ANCOMBC](https://github.com/FrederickHuangLin/ANCOMBC), and [VennDiagram](https://cran.r-project.org/package=VennDiagram), were employed to generate box plots, heatmaps, stacked bar plots, and Venn diagrams.  
+- For statistical analyses, the [Wilcoxon rank-sum test](https://en.wikipedia.org/wiki/Mann–Whitney_U_test) was applied to assess differences between two groups, whereas [one-way analysis of variance (ANOVA)](https://en.wikipedia.org/wiki/Analysis_of_variance#One-way_ANOVA) was used for comparisons involving three or more groups. Statistical significance was defined as *p* < 0.05.
