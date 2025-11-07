@@ -4,7 +4,7 @@ The **Global Atlas of the Pan-Urban Virome** was constructed from over **12,000 
 
 ### Workflow
 Here is the workflow of GPUV:
-<p align="left">
+<p align="center">
   <img src="img/data_workflow.png" width="50%"，heigth="50%">
 </p>
 
