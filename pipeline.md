@@ -17,18 +17,34 @@ This repository contains a bioinformatics pipeline for processing **metagenomic 
 
 ## 1. Quality Control and Host Removal
 
-Raw paired-end reads are quality-controlled using **fastp**. Host-derived reads are removed by mapping reads to the host reference genome using **bowtie2**; only unmapped reads are retained for downstream analysis.
+Raw reads are quality-controlled using **fastp**. Host-derived reads are removed by mapping reads to the host reference genome using **bowtie2**; only unmapped reads are retained for downstream analysis.
 
 ```bash
-# Quality control
+# Quality control (paired-end)
 fastp -i R1.fq.gz -I R2.fq.gz \
-      -o clean_R1.fq.gz -O clean_R2.fq.gz
+-o clean_R1.fq.gz -O clean_R2.fq.gz
 
-# Host removal (e.g., human, mouse, or plant genome)
+
+# Host removal (paired-end; e.g., human hg38)
 bowtie2 -x host_db \
-        -1 clean_R1.fq.gz -2 clean_R2.fq.gz \
-        --very-sensitive --un-conc-gz dehost.fq.gz \
-        -S host.sam
+-1 clean_R1.fq.gz -2 clean_R2.fq.gz \
+--very-sensitive --un-conc-gz dehost.fq.gz \
+-S host.sam
+
+
+# --------------------------------------------------
+# Quality control (single-end)
+fastp -i R.fq.gz \
+-o clean_R.fq.gz
+
+
+# Host removal (single-end)
+bowtie2 -x host_db \
+-U clean_R.fq.gz \
+--very-sensitive \
+--un-gz dehost.fq.gz \
+-S host.sam
+
 ```
 
 ---
@@ -147,7 +163,7 @@ Evolutionary analysis using the **Large Terminase Subunit (TerL)** as a phylogen
 muscle -align terl.faa -output terl.aln.faa
 
 # Alignment trimming (TrimAL)
-trimal -in terl.aln.faa -out terl.aln.trim.faa -automated1
+trimal -in terl.aln.faa -out terl.aln.trim.faa -automated1 --gt 0.1
 
 # Phylogenetic tree inference (IQ-TREE)
 iqtree2 -s terl.aln.trim.faa \
