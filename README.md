@@ -1,11 +1,19 @@
 # Global Atlas of the Pan-Urban Virome (GPUV)
 
-The **Global Atlas of the Pan-Urban Virome** was constructed from over **12,000 metagenomes** spanning **280 cities across 86 countries or regions**. Our analysis cataloged **23,800 viral species**, over **94% of which were previously uncharacterized**.  
+The current GPUV figure set covers **12,082 sequencing runs** from **372 city labels** across **85 countries or regions**. The curated DNA virome contains **22,494 viral operational taxonomic units (vOTUs)**. Individual analyses use the cohorts and denominators documented with the figures.
+
+- [Current figures, plotting inputs and redraw instructions](current/README.md)
+- [Figure methods and interpretation](current/METHODS.md)
+- [Publication PDF assembly code](current/code/build_pdfs.py)
+
+## Earlier repository release
+
+The original repository materials below describe an earlier catalogue of 23,800 vOTUs. They provide the workflow context for the current figure set.
 
 ### Workflow
 Here is the workflow of GPUV:
 <p align="center">
-  <img src="img/data_workflow.png" width="50%"，heigth="50%">
+  <img src="img/data_workflow.png" width="50%" alt="GPUV workflow from the earlier repository release">
 </p>
 
 ### Primary Software Applications

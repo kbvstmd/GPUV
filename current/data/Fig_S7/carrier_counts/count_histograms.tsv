@@ -1,0 +1,659 @@
+factor	group	count	frequency
+continent	Africa	0	68
+continent	Africa	1	40
+continent	Africa	2	21
+continent	Africa	3	21
+continent	Africa	4	18
+continent	Africa	5	17
+continent	Africa	6	5
+continent	Africa	7	11
+continent	Africa	8	10
+continent	Africa	9	5
+continent	Africa	10	6
+continent	Africa	11	13
+continent	Africa	12	7
+continent	Africa	13	13
+continent	Africa	14	11
+continent	Africa	15	10
+continent	Africa	16	4
+continent	Africa	17	6
+continent	Africa	18	2
+continent	Africa	19	6
+continent	Africa	20	5
+continent	Africa	21	3
+continent	Africa	22	5
+continent	Africa	23	4
+continent	Africa	24	6
+continent	Africa	25	2
+continent	Africa	26	8
+continent	Africa	27	3
+continent	Africa	29	2
+continent	Africa	30	4
+continent	Africa	31	6
+continent	Africa	32	1
+continent	Africa	34	1
+continent	Africa	35	1
+continent	Africa	36	1
+continent	Africa	37	3
+continent	Africa	38	2
+continent	Africa	39	2
+continent	Africa	40	3
+continent	Africa	41	1
+continent	Africa	42	2
+continent	Africa	43	1
+continent	Africa	44	2
+continent	Africa	47	2
+continent	Africa	50	1
+continent	Africa	51	1
+continent	Africa	52	1
+continent	Africa	53	1
+continent	Africa	54	1
+continent	Africa	56	1
+continent	Africa	61	3
+continent	Africa	62	1
+continent	Africa	69	4
+continent	Africa	71	1
+continent	Africa	73	1
+continent	Africa	78	1
+continent	Africa	79	1
+continent	Asia	0	673
+continent	Asia	1	288
+continent	Asia	2	220
+continent	Asia	3	172
+continent	Asia	4	164
+continent	Asia	5	150
+continent	Asia	6	91
+continent	Asia	7	99
+continent	Asia	8	84
+continent	Asia	9	81
+continent	Asia	10	81
+continent	Asia	11	65
+continent	Asia	12	67
+continent	Asia	13	45
+continent	Asia	14	53
+continent	Asia	15	35
+continent	Asia	16	26
+continent	Asia	17	28
+continent	Asia	18	14
+continent	Asia	19	25
+continent	Asia	20	19
+continent	Asia	21	16
+continent	Asia	22	7
+continent	Asia	23	8
+continent	Asia	24	8
+continent	Asia	25	6
+continent	Asia	26	5
+continent	Asia	27	3
+continent	Asia	28	5
+continent	Asia	29	2
+continent	Asia	30	7
+continent	Asia	31	5
+continent	Asia	32	7
+continent	Asia	33	8
+continent	Asia	34	3
+continent	Asia	35	3
+continent	Asia	36	2
+continent	Asia	37	2
+continent	Asia	38	8
+continent	Asia	39	4
+continent	Asia	41	1
+continent	Asia	42	3
+continent	Asia	43	1
+continent	Asia	44	3
+continent	Asia	45	2
+continent	Asia	47	4
+continent	Asia	48	1
+continent	Asia	49	2
+continent	Asia	50	1
+continent	Asia	52	1
+continent	Asia	54	3
+continent	Asia	55	2
+continent	Asia	58	2
+continent	Asia	60	1
+continent	Asia	62	1
+continent	Asia	63	1
+continent	Asia	66	1
+continent	Asia	67	1
+continent	Asia	68	1
+continent	Asia	70	1
+continent	Asia	73	2
+continent	Asia	76	1
+continent	Europe	0	335
+continent	Europe	1	167
+continent	Europe	2	129
+continent	Europe	3	135
+continent	Europe	4	129
+continent	Europe	5	94
+continent	Europe	6	68
+continent	Europe	7	67
+continent	Europe	8	45
+continent	Europe	9	33
+continent	Europe	10	45
+continent	Europe	11	31
+continent	Europe	12	28
+continent	Europe	13	27
+continent	Europe	14	32
+continent	Europe	15	27
+continent	Europe	16	26
+continent	Europe	17	24
+continent	Europe	18	22
+continent	Europe	19	21
+continent	Europe	20	14
+continent	Europe	21	6
+continent	Europe	22	12
+continent	Europe	23	5
+continent	Europe	24	9
+continent	Europe	25	11
+continent	Europe	26	13
+continent	Europe	27	8
+continent	Europe	28	8
+continent	Europe	29	9
+continent	Europe	30	6
+continent	Europe	31	10
+continent	Europe	32	5
+continent	Europe	33	2
+continent	Europe	34	3
+continent	Europe	35	1
+continent	Europe	36	7
+continent	Europe	38	3
+continent	Europe	39	4
+continent	Europe	40	3
+continent	Europe	41	3
+continent	Europe	42	2
+continent	Europe	44	3
+continent	Europe	45	2
+continent	Europe	46	3
+continent	Europe	47	1
+continent	Europe	49	4
+continent	Europe	50	1
+continent	Europe	52	2
+continent	Europe	53	1
+continent	Europe	54	1
+continent	Europe	56	1
+continent	Europe	57	2
+continent	Europe	58	1
+continent	Europe	60	1
+continent	Europe	68	1
+continent	North America	0	438
+continent	North America	1	227
+continent	North America	2	181
+continent	North America	3	141
+continent	North America	4	105
+continent	North America	5	77
+continent	North America	6	61
+continent	North America	7	38
+continent	North America	8	31
+continent	North America	9	27
+continent	North America	10	29
+continent	North America	11	10
+continent	North America	12	16
+continent	North America	13	14
+continent	North America	14	27
+continent	North America	15	13
+continent	North America	16	13
+continent	North America	17	22
+continent	North America	18	13
+continent	North America	19	9
+continent	North America	20	25
+continent	North America	21	12
+continent	North America	22	13
+continent	North America	23	3
+continent	North America	24	4
+continent	North America	25	3
+continent	North America	26	5
+continent	North America	27	1
+continent	North America	28	2
+continent	North America	29	4
+continent	North America	30	2
+continent	North America	31	3
+continent	North America	32	1
+continent	North America	33	3
+continent	North America	35	3
+continent	North America	38	2
+continent	North America	39	1
+continent	North America	40	2
+continent	North America	41	2
+continent	North America	42	2
+continent	North America	43	3
+continent	North America	45	1
+continent	North America	47	1
+continent	North America	48	3
+continent	North America	49	1
+continent	North America	50	3
+continent	North America	52	2
+continent	North America	53	2
+continent	North America	57	1
+continent	North America	58	2
+continent	North America	66	1
+continent	North America	72	1
+continent	Oceania	0	49
+continent	Oceania	1	37
+continent	Oceania	2	24
+continent	Oceania	3	14
+continent	Oceania	4	2
+continent	Oceania	5	7
+continent	Oceania	6	4
+continent	Oceania	7	1
+continent	Oceania	8	2
+continent	Oceania	9	1
+continent	Oceania	10	3
+continent	Oceania	11	1
+continent	Oceania	12	1
+continent	Oceania	18	1
+continent	Oceania	29	1
+continent	Oceania	31	1
+continent	Oceania	32	1
+continent	Oceania	41	1
+continent	Oceania	42	1
+continent	Oceania	45	1
+continent	Oceania	52	1
+continent	South America	0	160
+continent	South America	1	37
+continent	South America	2	29
+continent	South America	3	22
+continent	South America	4	12
+continent	South America	5	13
+continent	South America	6	12
+continent	South America	7	9
+continent	South America	8	8
+continent	South America	9	9
+continent	South America	10	3
+continent	South America	11	7
+continent	South America	12	7
+continent	South America	13	3
+continent	South America	14	5
+continent	South America	15	3
+continent	South America	16	5
+continent	South America	17	3
+continent	South America	18	2
+continent	South America	19	1
+continent	South America	20	1
+continent	South America	21	2
+continent	South America	24	3
+continent	South America	25	1
+continent	South America	26	1
+continent	South America	28	1
+continent	South America	29	2
+continent	South America	30	2
+continent	South America	31	1
+continent	South America	32	3
+continent	South America	35	1
+continent	South America	37	1
+continent	South America	38	2
+continent	South America	39	2
+continent	South America	41	1
+continent	South America	43	1
+continent	South America	44	1
+continent	South America	46	2
+continent	South America	47	4
+continent	South America	48	1
+continent	South America	49	2
+continent	South America	50	1
+continent	South America	54	3
+continent	South America	57	1
+continent	South America	59	2
+continent	South America	61	1
+continent	South America	66	1
+continent	South America	70	1
+environment	Air (unspecified)	0	190
+environment	Air (unspecified)	1	38
+environment	Air (unspecified)	2	26
+environment	Air (unspecified)	3	19
+environment	Air (unspecified)	4	9
+environment	Air (unspecified)	5	11
+environment	Air (unspecified)	6	2
+environment	Air (unspecified)	7	3
+environment	Air (unspecified)	8	3
+environment	Air (unspecified)	9	2
+environment	Air (unspecified)	10	2
+environment	Air (unspecified)	11	1
+environment	Air (unspecified)	12	1
+environment	Air (unspecified)	13	1
+environment	Air (unspecified)	19	1
+environment	Air (unspecified)	21	1
+environment	Biofilm	0	3
+environment	Biofilm	1	5
+environment	Biofilm	2	4
+environment	Biofilm	3	3
+environment	Biofilm	4	12
+environment	Biofilm	5	6
+environment	Biofilm	6	6
+environment	Biofilm	8	1
+environment	Biofilm	9	1
+environment	Biofilm	10	1
+environment	Biofilm	14	1
+environment	Bioreactor	0	27
+environment	Bioreactor	1	26
+environment	Bioreactor	2	4
+environment	Bioreactor	3	4
+environment	Bioreactor	4	1
+environment	Bioreactor	5	2
+environment	Bioreactor	10	4
+environment	Bioreactor	11	1
+environment	Bioreactor	12	1
+environment	Bioreactor	13	4
+environment	Bioreactor	14	2
+environment	Bioreactor	16	2
+environment	Bioreactor	17	1
+environment	Bioreactor	18	1
+environment	Bioreactor	19	1
+environment	Bioreactor	20	1
+environment	Coast	0	8
+environment	Coast	1	2
+environment	Coast	2	2
+environment	Coast	3	1
+environment	Freshwater	0	80
+environment	Freshwater	1	53
+environment	Freshwater	2	23
+environment	Freshwater	3	11
+environment	Freshwater	4	9
+environment	Freshwater	5	11
+environment	Freshwater	6	13
+environment	Freshwater	7	9
+environment	Freshwater	8	6
+environment	Freshwater	9	5
+environment	Freshwater	10	6
+environment	Freshwater	11	2
+environment	Freshwater	12	4
+environment	Freshwater	13	2
+environment	Freshwater	15	2
+environment	Freshwater	16	4
+environment	Freshwater	17	2
+environment	Freshwater	19	4
+environment	Freshwater	20	2
+environment	Freshwater	22	1
+environment	Freshwater	24	1
+environment	Freshwater	25	1
+environment	Freshwater	26	2
+environment	Freshwater	28	1
+environment	Freshwater	29	2
+environment	Freshwater	30	3
+environment	Freshwater	31	1
+environment	Freshwater	33	3
+environment	Freshwater	35	2
+environment	Freshwater	38	1
+environment	Freshwater	39	2
+environment	Freshwater	42	2
+environment	Freshwater	44	1
+environment	Freshwater	47	1
+environment	Freshwater	49	1
+environment	Freshwater	53	1
+environment	Freshwater	54	1
+environment	Freshwater	60	1
+environment	Freshwater	68	1
+environment	Hospital	0	18
+environment	Hospital	1	5
+environment	Hospital	2	3
+environment	Hospital	3	5
+environment	Hospital	4	1
+environment	Hospital	7	1
+environment	Hospital	8	1
+environment	Hospital	9	1
+environment	Hospital	10	1
+environment	Hospital	11	2
+environment	Hospital	12	4
+environment	Hospital	13	1
+environment	Hospital	20	1
+environment	Hospital	25	2
+environment	Hospital	26	2
+environment	Hospital	28	2
+environment	Hospital	31	1
+environment	Hospital	34	1
+environment	Hospital	35	1
+environment	Hospital	38	2
+environment	Hospital	42	1
+environment	Hospital	58	1
+environment	Hospital	66	1
+environment	Hospital	70	1
+environment	Hospital	76	1
+environment	Indoor	0	86
+environment	Indoor	1	35
+environment	Indoor	2	43
+environment	Indoor	3	42
+environment	Indoor	4	26
+environment	Indoor	5	39
+environment	Indoor	6	23
+environment	Indoor	7	34
+environment	Indoor	8	22
+environment	Indoor	9	15
+environment	Indoor	10	12
+environment	Indoor	11	21
+environment	Indoor	12	20
+environment	Indoor	13	9
+environment	Indoor	14	12
+environment	Indoor	15	12
+environment	Indoor	16	7
+environment	Indoor	17	8
+environment	Indoor	18	3
+environment	Indoor	19	4
+environment	Indoor	20	5
+environment	Indoor	21	3
+environment	Indoor	22	2
+environment	Indoor	26	1
+environment	Indoor	27	1
+environment	Indoor air	0	58
+environment	Indoor air	1	20
+environment	Indoor air	2	25
+environment	Indoor air	3	15
+environment	Indoor air	4	7
+environment	Indoor air	5	9
+environment	Indoor air	6	4
+environment	Indoor air	7	5
+environment	Indoor air	8	4
+environment	Indoor air	9	1
+environment	Indoor air	10	3
+environment	Indoor air	11	2
+environment	Indoor air	12	2
+environment	Indoor air	13	1
+environment	Indoor air	16	1
+environment	Indoor air	18	2
+environment	Indoor air	20	4
+environment	Indoor air	22	1
+environment	Indoor air	24	2
+environment	Indoor air	25	1
+environment	Indoor air	28	2
+environment	Indoor air	30	1
+environment	Indoor air	32	1
+environment	Indoor air	35	1
+environment	Indoor air	46	2
+environment	Indoor air	56	1
+environment	Outdoor	0	170
+environment	Outdoor	1	54
+environment	Outdoor	2	43
+environment	Outdoor	3	27
+environment	Outdoor	4	29
+environment	Outdoor	5	12
+environment	Outdoor	6	6
+environment	Outdoor	7	5
+environment	Outdoor	8	2
+environment	Outdoor	9	2
+environment	Outdoor	10	5
+environment	Outdoor	11	2
+environment	Outdoor	12	6
+environment	Outdoor	13	3
+environment	Outdoor	14	4
+environment	Outdoor	15	3
+environment	Outdoor	16	3
+environment	Outdoor	17	4
+environment	Outdoor	18	3
+environment	Outdoor	19	1
+environment	Outdoor	20	1
+environment	Outdoor	21	1
+environment	Outdoor	22	1
+environment	Outdoor	23	2
+environment	Outdoor	24	1
+environment	Outdoor	25	1
+environment	Outdoor	26	1
+environment	Outdoor	30	1
+environment	Outdoor	31	2
+environment	Outdoor	33	2
+environment	Outdoor	38	2
+environment	Outdoor	39	2
+environment	Outdoor	42	1
+environment	Outdoor	47	1
+environment	Outdoor	49	1
+environment	Sludge	0	46
+environment	Sludge	1	58
+environment	Sludge	2	74
+environment	Sludge	3	55
+environment	Sludge	4	43
+environment	Sludge	5	45
+environment	Sludge	6	31
+environment	Sludge	7	30
+environment	Sludge	8	12
+environment	Sludge	9	14
+environment	Sludge	10	26
+environment	Sludge	11	20
+environment	Sludge	12	21
+environment	Sludge	13	9
+environment	Sludge	14	15
+environment	Sludge	15	10
+environment	Sludge	16	6
+environment	Sludge	17	4
+environment	Sludge	18	6
+environment	Sludge	19	1
+environment	Sludge	20	2
+environment	Sludge	21	2
+environment	Sludge	22	2
+environment	Sludge	24	1
+environment	Sludge	25	1
+environment	Sludge	27	1
+environment	Sludge	29	3
+environment	Sludge	30	1
+environment	Sludge	31	1
+environment	Sludge	34	1
+environment	Soil	0	113
+environment	Soil	1	12
+environment	Soil	2	1
+environment	Soil	3	1
+environment	Soil	6	1
+environment	Transport hubs	0	706
+environment	Transport hubs	1	357
+environment	Transport hubs	2	241
+environment	Transport hubs	3	214
+environment	Transport hubs	4	175
+environment	Transport hubs	5	140
+environment	Transport hubs	6	96
+environment	Transport hubs	7	75
+environment	Transport hubs	8	77
+environment	Transport hubs	9	61
+environment	Transport hubs	10	65
+environment	Transport hubs	11	55
+environment	Transport hubs	12	40
+environment	Transport hubs	13	53
+environment	Transport hubs	14	63
+environment	Transport hubs	15	41
+environment	Transport hubs	16	37
+environment	Transport hubs	17	44
+environment	Transport hubs	18	23
+environment	Transport hubs	19	31
+environment	Transport hubs	20	25
+environment	Transport hubs	21	20
+environment	Transport hubs	22	15
+environment	Transport hubs	23	8
+environment	Transport hubs	24	12
+environment	Transport hubs	25	7
+environment	Transport hubs	26	7
+environment	Transport hubs	27	4
+environment	Transport hubs	28	2
+environment	Transport hubs	29	5
+environment	Transport hubs	30	6
+environment	Transport hubs	31	9
+environment	Transport hubs	32	3
+environment	Transport hubs	33	2
+environment	Transport hubs	34	1
+environment	Transport hubs	36	1
+environment	Transport hubs	37	2
+environment	Transport hubs	38	3
+environment	Transport hubs	39	1
+environment	Transport hubs	40	4
+environment	Transport hubs	41	1
+environment	Transport hubs	42	1
+environment	Transport hubs	43	1
+environment	Transport hubs	44	1
+environment	Transport hubs	45	1
+environment	Transport hubs	46	2
+environment	Transport hubs	47	4
+environment	Transport hubs	48	1
+environment	Transport hubs	49	1
+environment	Transport hubs	50	1
+environment	Transport hubs	52	1
+environment	Transport hubs	53	1
+environment	Transport hubs	54	3
+environment	Transport hubs	56	1
+environment	Transport hubs	57	1
+environment	Transport hubs	58	1
+environment	Transport hubs	59	2
+environment	Transport hubs	61	1
+environment	Transport hubs	70	1
+environment	WWTP	0	61
+environment	WWTP	1	74
+environment	WWTP	2	77
+environment	WWTP	3	77
+environment	WWTP	4	83
+environment	WWTP	5	62
+environment	WWTP	6	37
+environment	WWTP	7	50
+environment	WWTP	8	41
+environment	WWTP	9	42
+environment	WWTP	10	33
+environment	WWTP	11	17
+environment	WWTP	12	18
+environment	WWTP	13	17
+environment	WWTP	14	24
+environment	WWTP	15	14
+environment	WWTP	16	9
+environment	WWTP	17	10
+environment	WWTP	18	9
+environment	WWTP	19	10
+environment	WWTP	20	11
+environment	WWTP	21	8
+environment	WWTP	22	8
+environment	WWTP	23	10
+environment	WWTP	24	11
+environment	WWTP	25	7
+environment	WWTP	26	15
+environment	WWTP	27	7
+environment	WWTP	28	9
+environment	WWTP	29	9
+environment	WWTP	30	8
+environment	WWTP	31	12
+environment	WWTP	32	13
+environment	WWTP	33	6
+environment	WWTP	34	4
+environment	WWTP	35	4
+environment	WWTP	36	7
+environment	WWTP	37	4
+environment	WWTP	38	9
+environment	WWTP	39	8
+environment	WWTP	40	4
+environment	WWTP	41	7
+environment	WWTP	42	3
+environment	WWTP	43	4
+environment	WWTP	44	7
+environment	WWTP	45	5
+environment	WWTP	46	1
+environment	WWTP	47	6
+environment	WWTP	48	4
+environment	WWTP	49	6
+environment	WWTP	50	3
+environment	WWTP	51	1
+environment	WWTP	52	5
+environment	WWTP	53	1
+environment	WWTP	54	4
+environment	WWTP	55	2
+environment	WWTP	57	3
+environment	WWTP	58	3
+environment	WWTP	60	1
+environment	WWTP	61	3
+environment	WWTP	62	2
+environment	WWTP	63	1
+environment	WWTP	66	2
+environment	WWTP	67	1
+environment	WWTP	68	1
+environment	WWTP	69	4
+environment	WWTP	71	1
+environment	WWTP	72	1
+environment	WWTP	73	3
+environment	WWTP	78	1
+environment	WWTP	79	1
