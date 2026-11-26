@@ -1,0 +1,39 @@
+cohort	factor	group	n	positive	mean	q1	median	q3	maximum	projects
+all	environment	Air (unspecified)	310	120	1.3193548387096774	0.0	0.0	2.0	21	11
+all	environment	Biofilm	43	40	4.116279069767442	2.0	4.0	5.0	14	3
+all	environment	Bioreactor	82	55	3.768292682926829	0.0	1.0	3.75	20	17
+all	environment	Coast	13	5	0.6923076923076923	0.0	0.0	1.0	3	2
+all	environment	Freshwater	277	197	6.971119133574007	0.0	2.0	7.0	68	19
+all	environment	Hospital	60	42	13.55	0.0	3.0	25.0	76	4
+all	environment	Indoor	485	399	6.0350515463917525	2.0	5.0	9.0	27	3
+all	environment	Indoor air	175	117	5.171428571428572	0.0	2.0	5.0	56	6
+all	environment	Outdoor	404	234	3.982673267326733	0.0	1.0	4.0	49	2
+all	environment	Sludge	541	495	6.044362292051756	2.0	4.0	9.0	34	52
+all	environment	Soil	128	15	0.1796875	0.0	0.0	0.0	6	8
+all	environment	Transport hubs	2757	2051	5.878128400435256	0.0	3.0	8.0	70	1
+all	environment	WWTP	1026	965	13.835282651072125	3.0	7.0	20.0	79	79
+all	continent	Africa	382	314	12.649214659685864	1.0	7.0	17.75	79	24
+all	continent	Asia	2625	1952	6.2838095238095235	0.0	3.0	9.0	76	69
+all	continent	Europe	1653	1318	7.584392014519056	1.0	4.0	10.0	68	28
+all	continent	North America	1606	1168	5.427148194271482	0.0	2.0	6.0	72	59
+all	continent	Oceania	154	105	3.6948051948051948	0.0	1.0	3.0	52	4
+all	continent	South America	395	235	7.359493670886076	0.0	2.0	8.0	70	7
+positive	environment	Air (unspecified)	120	120	3.408333333333333	1.0	2.0	4.0	21	9
+positive	environment	Biofilm	40	40	4.425	3.0	4.0	5.25	14	3
+positive	environment	Bioreactor	55	55	5.618181818181818	1.0	2.0	10.5	20	11
+positive	environment	Coast	5	5	1.8	1.0	2.0	2.0	3	1
+positive	environment	Freshwater	197	197	9.802030456852792	1.0	5.0	11.0	68	16
+positive	environment	Hospital	42	42	19.357142857142858	3.0	12.0	28.0	76	4
+positive	environment	Indoor	399	399	7.335839598997493	3.0	6.0	11.0	27	3
+positive	environment	Indoor air	117	117	7.735042735042735	2.0	3.0	8.0	56	6
+positive	environment	Outdoor	234	234	6.8760683760683765	2.0	3.0	7.0	49	2
+positive	environment	Sludge	495	495	6.606060606060606	2.0	5.0	10.0	34	47
+positive	environment	Soil	15	15	1.5333333333333334	1.0	1.0	1.0	6	4
+positive	environment	Transport hubs	2051	2051	7.901511457825451	2.0	5.0	11.0	70	1
+positive	environment	WWTP	965	965	14.709844559585493	4.0	8.0	22.0	79	69
+positive	continent	Africa	314	314	15.388535031847134	3.0	11.0	22.0	79	12
+positive	continent	Asia	1952	1952	8.45030737704918	2.0	5.0	11.0	76	61
+positive	continent	Europe	1318	1318	9.512139605462822	3.0	6.0	13.0	68	27
+positive	continent	North America	1168	1168	7.462328767123288	2.0	4.0	9.0	72	53
+positive	continent	Oceania	105	105	5.419047619047619	1.0	2.0	5.0	52	4
+positive	continent	South America	235	235	12.370212765957447	2.0	6.0	14.5	70	7

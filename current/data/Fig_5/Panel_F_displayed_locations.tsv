@@ -1,0 +1,80 @@
+city_key	country_code	region
+China | Nanping	CN	China
+China | Guangzhou	CN	China
+China | Jiangsu	CN	China
+China | Nanjing	CN	China
+China | Hangzhou	CN	China
+China | Huizhou	CN	China
+China | Shanghai	CN	China
+China | Beijing	CN	China
+Nigeria | Offa	NG	Africa
+South Africa | Cape Town	ZA	Africa
+Uganda | Kampala	UG	Africa
+Nigeria | Ilorin	NG	Africa
+Niger | Niamey	NE	Africa
+Ghana | Korlebu	GH	Africa
+Colombia | Bogota	CO	Latin America
+Peru | Lima	PE	Latin America
+Brazil | Rio De Janeiro	BR	Latin America
+Brazil | Sao Paulo	BR	Latin America
+Colombia | Cundinamarca	CO	Latin America
+Uruguay | Montevideo	UY	Latin America
+Brazil | Ribeirao Preto	BR	Latin America
+Israel | Tel Aviv	IL	Middle East
+Qatar | Doha	QA	Middle East
+India | Telangana	IN	India
+India | Faridabad	IN	India
+Singapore | Singapore	SG	Other Asia
+Vietnam | Hanoi	VN	Other Asia
+Hong Kong | Hong Kong	HK	Other Asia
+South Korea | Seoul	KR	Other Asia
+Japan | Tokyo	JP	Other Asia
+Japan | Yamaguchi	JP	Other Asia
+Taiwan | Taipei	TW	Other Asia
+Japan | Sendai	JP	Other Asia
+Malaysia | Kuala Lumpur	MY	Other Asia
+New Zealand | Hamilton	NZ	Oceania
+USA | Honolulu	US	Oceania
+Australia | Brisbane	AU	Oceania
+Australia | Sydney	AU	Oceania
+USA | Carolina	US	Europe/North America
+USA | Charlottesville	US	Europe/North America
+USA | Virginia	US	Europe/North America
+USA | Ann Arbor	US	Europe/North America
+Germany | Greifswald	DE	Europe/North America
+USA | Madison	US	Europe/North America
+Germany | Goettingen	DE	Europe/North America
+USA | Caledonia	US	Europe/North America
+Portugal | Lisbon	PT	Europe/North America
+USA | Manitowoc	US	Europe/North America
+Denmark | Odense	DK	Europe/North America
+Spain | Girona	ES	Europe/North America
+USA | New York City	US	Europe/North America
+Luxembourg | Schifflange	LU	Europe/North America
+USA | San Francisco	US	Europe/North America
+USA | San Diego	US	Europe/North America
+Sweden | Sjolunda	SE	Europe/North America
+Germany | Berlin	DE	Europe/North America
+Austria | Vienna	AT	Europe/North America
+USA | Sheboygan	US	Europe/North America
+USA | Minneapolis	US	Europe/North America
+Bulgaria | Sofia	BG	Europe/North America
+United Kingdom | London	GB	Europe/North America
+USA | Baltimore	US	Europe/North America
+Canada | Ontario	CA	Europe/North America
+Portugal | Porto	PT	Europe/North America
+USA | Fairbanks	US	Europe/North America
+Ukraine | Kyiv	UA	Europe/North America
+Greece | Thyamis	GR	Europe/North America
+Switzerland | Zurich	CH	Europe/North America
+USA | Salt Lake City	US	Europe/North America
+USA | Denver	US	Europe/North America
+France | Paris	FR	Europe/North America
+USA | Pasadena	US	Europe/North America
+Norway | Oslo	NO	Europe/North America
+France | Marseille	FR	Europe/North America
+Sweden | Stockholm	SE	Europe/North America
+USA | Palo Alto	US	Europe/North America
+Italy | Naples	IT	Europe/North America
+USA | Portland	US	Europe/North America
+USA | Sacramento	US	Europe/North America

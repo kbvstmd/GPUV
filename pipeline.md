@@ -1,5 +1,7 @@
 # Viromics Bioinformatics Workflow
 
+This page documents the earlier GPUV workflow. See the [current figure methods](current/METHODS.md) for the analysis definitions and cohorts used in the current figure set.
+
 This repository contains a bioinformatics pipeline for processing **metagenomic sequencing data**, with a focus on the **identification, characterization, and analysis of viral sequences**.
 
 ---
